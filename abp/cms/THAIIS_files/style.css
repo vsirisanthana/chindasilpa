@@ -1,0 +1,147 @@
+BODY {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+HR {
+	COLOR: #333333; HEIGHT: 1px
+}
+A:link {
+	COLOR: #333333; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+A:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A:hover {
+	
+}
+UL {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+LI {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+.tablehead {
+	COLOR: #333333; BACKGROUND-COLOR: #e8e8e8
+}
+.tablebottom {
+	
+}
+.bordercolor {
+	
+}
+.tablebgcolor {
+	
+}
+.navbar {
+	COLOR: #333333
+}
+.row1 {
+	COLOR: #333333
+}
+.row2 {
+	COLOR: #333333
+}
+.head1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+.head1:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+.head2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.clickstream {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+.smalltext {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+.marktext {
+	COLOR: #ff0000; BACKGROUND-COLOR: #ffffff
+}
+.new {
+	FONT-SIZE: 11px; COLOR: #ff0000; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+A:hover {
+	COLOR: #000000
+}
+FORM {
+	FONT-SIZE: 11px; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+.logininput {
+	FONT-SIZE: 11px; WIDTH: 130px; COLOR: #0f5475; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.searchinput {
+	FONT-SIZE: 11px; WIDTH: 130px; COLOR: #0f5475; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.textarea {
+	FONT-SIZE: 11px; WIDTH: 230px; COLOR: #0f5475; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+.input {
+	FONT-SIZE: 11px; WIDTH: 230px; COLOR: #0f5475; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+.select {
+	FONT-SIZE: 11px; COLOR: #0f5475; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+.setperpageselect {
+	FONT-SIZE: 11px; COLOR: #0f5475; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+.categoryselect {
+	FONT-SIZE: 11px; COLOR: #0f5475; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+.dropdownmarker {
+	FONT-SIZE: 11px; COLOR: #136c99; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #eeeeee
+}
+.button {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #fcdc43; FONT-FAMILY: Tahoma,Verdana,Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #003366
+}
+.catbgcolor {
+	
+}
+.maincat {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+.subcat {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+.imagerow1 {
+	COLOR: #333333
+}
+.imagerow2 {
+	COLOR: #333333
+}
+.commentrow1 {
+	COLOR: #333333
+}
+.commentrow2 {
+	COLOR: #333333
+}
+.commentspacerrow {
+	COLOR: #333333
+}
+.commenttextarea {
+	FONT-SIZE: 11px; WIDTH: 270px; COLOR: #0f5475; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+.commentinput {
+	FONT-SIZE: 11px; WIDTH: 270px; COLOR: #0f5475; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif
+}
+#nobor IMG {
+	BORDER-RIGHT: #a2a2a1 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #a2a2a1 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #a2a2a1 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #a2a2a1 1px solid
+}
+.pathway A:link {
+	COLOR: #333333
+}
+.pathway A:hover {
+	COLOR: #333333
+}
+.pathway A:visited {
+	COLOR: #333333
+}

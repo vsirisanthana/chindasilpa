@@ -1,0 +1,131 @@
+body {
+	padding: 0px;
+	margin-top: 60px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#content_panel {
+	font-family: Verdana;
+	font-size: 9px;
+	color: #a10e0e;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+	height: 189px;
+	width: 342px;
+	position: absolute;
+	left: 356px;
+	top: 200px;
+}
+.linkul {
+	font-family: Verdana;
+	font-size: 9px;
+	font-weight: normal;
+	color: #a10e0e;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	list-style-image: url(images/admin_12.jpg);
+	list-style-position: inside;
+}
+.linkli {
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+#main_panel {
+	margin: auto;
+	padding: 0px;
+	width: 906px;
+	position: relative;
+}
+#header {
+	background-image: url(images/admin_03.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	height: 121px;
+	width: 906px;
+}
+#contenter {
+	background-image: url(images/admin_10.jpg);
+	background-repeat: repeat-y;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+	width: 906px;
+	height: 300px;
+}
+#footer {
+	background-image: url(images/admin_15.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+	height: 66px;
+	width: 906px;
+}
+#headpanel {
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	left: 297px;
+	top: 153px;
+}
+a:link {
+	font-family: Verdana;
+	font-size: 9px;
+	font-weight: normal;
+	color: #a10e0e;
+	text-decoration: none;
+}
+a:hover {
+	color: #025259;
+	text-decoration: none;
+}
+a:visited {
+	color: #A10E0E;
+	text-decoration: none;
+}
+.footmenu {
+	margin: 0px;
+	padding: 0px;
+	height: 36px;
+	width: 487px;
+	position: absolute;
+	left: 244px;
+	list-style-type: none;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	float: left;
+}
+.linefoot {
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+	float: left;
+}
+#copyright {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	width: 473px;
+	position: absolute;
+	top: 462px;
+	left: 262px;
+	font-family: Verdana;
+	font-size: 9px;
+	font-weight: normal;
+	color: #306962;
+	text-decoration: none;
+}

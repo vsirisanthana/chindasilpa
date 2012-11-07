@@ -1,0 +1,13 @@
+body {      scrollbar-base-color: #009999; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; background-color: #009999; background-image:  url(images/bg_abp.gif); background-repeat: repeat-y; clip:   rect(   )}
+.bghead {  background-image:  url(images/bghead.gif); background-repeat: repeat-x}
+.bgfoot { background-image:  url(images/bgfoot.gif); background-repeat: no-repeat; background-position: bottom}
+table {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000}
+h1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; color: #009999}
+.small {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px}
+.bgf {  background-image:  url(images/bgfooter.gif); background-repeat: no-repeat; background-position: bottom}
+.ta {  border-color: #999999 black black; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+a:link {  color: #009999}
+a:hover {  color: #FF9999}
+a:visited {  color: #00CCCC}
+input {  background-color: #CAE6DF}
+textarea {  background-color: #CAE6DF}
